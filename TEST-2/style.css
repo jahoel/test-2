@@ -82,6 +82,10 @@ footer {
     margin: 20px auto;
   }
 
+  .step-box:last-child {
+    margin-right: auto;
+  }
+
   .step-img1 {
     height: 150px;
   }
